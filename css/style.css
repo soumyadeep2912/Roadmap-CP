@@ -26,6 +26,21 @@ h6 {
 .bs{
   color:#fff;
 }
+.linkss:hover{
+  opacity:0.5;
+ 
+}
+.round{
+  border-radius: 100%;
+  width:20vh;
+  height: 20vh;
+}
+.cent{
+  text-align: center;
+}
+.colr{
+  color: red;
+}
 
 a {
   color: #1e1e1e;
